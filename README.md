@@ -6,6 +6,6 @@ Priyadarshini Rai, Atishay Jain, Shivani Kumar, Neha Jha, Divya Sharma, Smriti C
 
 Pathomap provides a strategy to obtain an unbiased continuous representation of disease causing genes and their tissue specificity.
 
-### Link to PathoBERT Model
+### Link to *PathoBERT* Model
 
 https://drive.google.com/drive/folders/1GJE6zOrQYkavz0veiW_6SPv6uo6v4-ja?usp=sharing
