@@ -42,7 +42,7 @@ To compute the ***cosine similarity*** between the embeddings of diseases ***car
 ```
 CS = cosine_similarity([E1.numpy()], [E2.numpy()])
 ```
-## *GeneDisFreq ( )* Usage
+## Function *GeneDisFreq ( )* usage
 
 ```
 F = GeneDisFreq('BRCA1', breast cancer')
