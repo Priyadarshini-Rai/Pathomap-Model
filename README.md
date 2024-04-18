@@ -12,6 +12,13 @@ Pathomap provides a strategy to obtain an unbiased continuous representation of 
 
 https://drive.google.com/drive/folders/1GJE6zOrQYkavz0veiW_6SPv6uo6v4-ja?usp=sharing
 
+#### Script and data used for classification
+
+*Classification.ipynb* and *Supplementary File 1.csv*
+
+https://drive.google.com/drive/folders/1GJE6zOrQYkavz0veiW_6SPv6uo6v4-ja?usp=sharing
+
+
 #### Data for *GeneDisFreq* function
 
 https://drive.google.com/drive/folders/1Hrdw_P2umP81SzrODAvrZhLKu2OwKDC_?usp=sharing
