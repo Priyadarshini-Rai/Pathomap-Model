@@ -12,7 +12,9 @@ Pathomap provides a strategy to obtain an unbiased continuous representation of 
 
 https://drive.google.com/drive/folders/1GJE6zOrQYkavz0veiW_6SPv6uo6v4-ja?usp=sharing
 
-#### Script and data used for classification
+#### Link to *classification* model
+
+https://drive.google.com/file/d/19H4QagNJTDzQCRVBOWn8oaPGG4FKsFJU/view?usp=sharing
 
 *Classification.ipynb* and *Supplementary File 1.csv*
 
